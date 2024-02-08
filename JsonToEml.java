@@ -4,7 +4,6 @@
     <version>1.4.7</version>
 </dependency>
 
-
 import javax.mail.Message;
 import javax.mail.MessagingException;
 import javax.mail.Session;
